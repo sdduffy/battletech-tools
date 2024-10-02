@@ -224,5 +224,25 @@ export const CONST_FORCE_PACKS: IForcePack[] = [
             "Archer ARC-2W",
             "Blackjack BJ-2"
         ],
-    },
+    },{
+        name: "Hansen's Roughriders Battle Lance",
+        groupLabel: "lance",
+        tech: "is",
+        members: [
+            "Penetrator PTR-4D",
+            "Hatchetman HCT-6D",
+            "Enforcer ENF-5D",
+            "Atlas AS7-D"
+        ],
+    },{
+        name: "Gray Death Legion Heavy Battle Lance",
+        groupLabel: "lance",
+        tech: "is",
+        members: [
+            "Penetrator PTR-4D",
+            "Man O' War (Gargoyle) C",
+            "Catapult CPLT-K2K",
+            "Shadowhawk SHD-7H"
+        ],
+    }
 ]

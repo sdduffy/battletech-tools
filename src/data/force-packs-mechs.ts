@@ -203,5 +203,26 @@ export const CONST_FORCE_PACKS: IForcePack[] = [
             "Dragon DRG-1N",
             "Spider SDR-7M",
         ],
+    },{
+        name: "Eridani Light Horse Hunter Lance",
+        groupLabel: "Lance",
+        tech: "is",
+        members: [
+            "Sagittaire SGT-8R",
+            "Banshee BNC-3S",
+            "Cyclops CP-11-A",
+            "Thunderbolt TDR-5SE",
+        ],
+    },{
+        name: "Wolf's Dragoons Assault Star",
+        groupLabel: "star",
+        tech: "clan",
+        members: [
+            "Timber Wolf Prime",
+            "Annihilator ANH-2A",
+            "Rifleman RFL-3N",
+            "Archer ARC-2W",
+            "Blackjack BJ-2"
+        ],
     },
 ]
